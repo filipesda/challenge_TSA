@@ -9,6 +9,7 @@ import os
 import numpy as np
 import sys
 import string
+import io
 
 #cleanTrain=True and cleanTest=True for the first execution
 #Then the files are saved and reused
